@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,8 +14,8 @@
     <ul>
         <li>
             <a href="#home">HOME</a>
-            <a href="about">ABOUT</a>
-            <a href=""></a>
+            <a href="#about">ABOUT</a>
+            <a href="#contact me">CONTACT ME</a>
         </li>
     </ul>
 </nav>
@@ -31,9 +30,9 @@ Marvel has featured Spider-Man in several comic book series, the first and longe
 Spider-Man is one of the most popular and commercially successful superheroes.He has appeared in countless forms of media, including several animated TV series: the first original animated series Spider-Man, with Paul Soles voicing the titular character, a live-action television series, syndicated newspaper comic strips, and multiple series of films. 
     </p>
 </section>
-<section>
+
    
-    <ol>
+  <ol>
         <li>Reading</li>
         <li>Gaming</li>
         <li>Sports</li>
@@ -46,8 +45,6 @@ Spider-Man is one of the most popular and commercially successful superheroes.He
         &copy; All Copyrights Reserved.
         Raviraj Singh
     </footer>
-
-    </section>
 
 </body>
 </html>
